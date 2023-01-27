@@ -50,4 +50,3 @@ jobs:
           # the output branch we mentioned above
           target_branch: output
           build_dir: dist
-        env:
