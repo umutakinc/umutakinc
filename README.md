@@ -59,6 +59,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/umutakinc/umutakinc/blob/output/snake.svg" alt="Snake animation" />
+<div align='center'>
+  <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ###
