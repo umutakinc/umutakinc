@@ -56,11 +56,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align='center'>
-  <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg" alt="Snake animation" />
-</div>
-
-###
